@@ -1,5 +1,5 @@
 # git-practice
-
+new-featureブランチで変更
 
 ### このリポジトリはGit動画講座用です．
 ロー仮リポで変更
